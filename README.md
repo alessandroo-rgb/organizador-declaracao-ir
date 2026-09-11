@@ -1,4 +1,4 @@
-# Organizador de Declaração de Imposto de Renda
+## Organizador de Declaração de Imposto de Renda
 
 Projeto desenvolvido em Excel como parte de um desafio da DIO, com o objetivo de organizar e centralizar informações e documentos necessários para a preparação da Declaração de Imposto de Renda Pessoa Física (IRPF).
 
@@ -12,13 +12,13 @@ A planilha foi desenvolvida com recursos de automação e navegação para facil
 
 Entre as principais funcionalidades estão:
 
-- 🔗 Navegação entre as diferentes abas da planilha;
-- ◀️ Botão **Anterior** para retornar à etapa anterior;
-- ▶️ Botão **Próximo** para avançar entre as etapas;
-- 📋 Organização das informações em diferentes etapas;
-- ✅ Recursos de validação para auxiliar no preenchimento;
-- 🏦 Tabela de referência de instituições financeiras;
-- 📊 Centralização das informações necessárias para a preparação da declaração.
+- Navegação entre as diferentes abas da planilha;
+- Botão **Anterior** para retornar à etapa anterior;
+- Botão **Próximo** para avançar entre as etapas;
+- Organização das informações em diferentes etapas;
+- Recursos de validação para auxiliar no preenchimento;
+- Tabela de referência de instituições financeiras;
+- Centralização das informações necessárias para a preparação da declaração.
 
 ## Estrutura do Arquivo
 
@@ -82,8 +82,11 @@ Tabela de referência contendo códigos e nomes de instituições financeiras pa
 - O projeto tem finalidade de **organização e centralização de informações**.
 - A planilha não substitui o programa ou sistema oficial da Receita Federal para a transmissão da declaração.
 - Recomenda-se manter os documentos e comprovantes correspondentes às informações registradas.
-- O projeto foi desenvolvido para fins de aprendizado e como parte do desafio da **DIO**.
+- O projeto foi desenvolvido para fins de aprendizado e como parte do desafio da DIO.
 
 ## Projeto
 
-Desenvolvido como parte de um desafio prático da **DIO**, utilizando o Microsoft Excel para aplicação de conceitos de organização, estruturação e automação de informações.
+Autor
+Alessandro Oliveira
+Desafio prático da DIO - Santander- Excel com IA e Claude — Setembro/2026
+
