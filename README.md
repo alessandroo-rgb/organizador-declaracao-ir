@@ -84,6 +84,17 @@ Tabela de referência contendo códigos e nomes de instituições financeiras pa
 - Recomenda-se manter os documentos e comprovantes correspondentes às informações registradas.
 - O projeto foi desenvolvido para fins de aprendizado e como parte do desafio da DIO.
 
+## Telas
+
+### Dados do Titular
+![Dados do Titular](./images/1.TITULAR.PNG)
+
+### Informes de Rendimentos Bancários
+![Informes Bancários](./images/2.INFORMES.PNG)
+
+### Notas ou Extrato de Recebimentos
+![Notas de Recebimentos](./images/3.NOTAS.PNG)
+
 ## Projeto
 
 Autor
