@@ -87,13 +87,13 @@ Tabela de referência contendo códigos e nomes de instituições financeiras pa
 ## Páginas
 
 ### Dados do Titular
-![Dados do Titular](./images/1.TITULAR.PNG)
+![Dados do Titular](./images/TITULAR.PNG)
 
 ### Informes de Rendimentos Bancários
-![Informes Bancários](./images/2.INFORMES.PNG)
+![Informes Bancários](./images/INFORMES.PNG)
 
 ### Notas ou Extrato de Recebimentos
-![Notas de Recebimentos](./images/3.NOTAS.PNG)
+![Notas de Recebimentos](./images/NOTAS.PNG)
 
 ## Projeto
 
